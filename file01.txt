@@ -1,2 +1,6 @@
 text01
 text02
+
+4 apples
+5 citrus
+8 lemons
