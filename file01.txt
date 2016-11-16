@@ -1,2 +1,7 @@
 text01
 text02
+
+8 apples
+10 citrus
+1 potatoe
+16 lemons
