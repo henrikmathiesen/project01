@@ -5,3 +5,4 @@ text02
 10 citrus
 10 potatoe
 10 lemons
+1000 ice creams
